@@ -2,7 +2,7 @@
 
 ## 1. High Concept
 
-A cozy, pixel-art action RPG focused on environmental restoration. The player explores different biomes, collecting and recycling waste to restore ecosystems, help local communities, and maintain planetary balance. Conflict is resolved through non-lethal mechanics, emphasizing harmony over destruction.
+A cozy, pixel-art action RPG centered on environmental restoration and responsible resource management. The player takes on a structured role focused on restoring damaged ecosystems, supporting local communities, and maintaining planetary balance through non-violent actions and meaningful daily work.
 
 ## 2. Design Pillars
 
@@ -10,28 +10,34 @@ A cozy, pixel-art action RPG focused on environmental restoration. The player ex
 - Non-lethal conflict: de-escalation and balance instead of killing.
 - Systems over content: gameplay emerges from interacting systems.
 - Cozy but meaningful: calm pacing with real consequences.
+- Purpose-driven work: progression is tied to responsibility, contribution, and care.
 
 ## 3. Core Gameplay Loop
 
-Explore → Collect & Classify Resources → Restore Environment → Craft / Upgrade → Unlock New Areas & Abilities → Repeat
+Plan Daily Objectives → Explore → Collect & Classify Resources → Fulfill Work Quotas / Restoration Goals → Craft / Upgrade → Engage in Secondary Activities (farming, animals, relationships) → Rest → Repeat
 
 ## 4. Player Progression (High Level)
 
 - Skill-based progression (tools, efficiency, traversal).
-- Reputation-based progression with communities and ecosystems.
-- Equipment and clothing crafted from recycled materials.
+- Progression through completed work objectives and ecosystem restoration.
+- Economic progression through structured tasks and secondary activities.
+- Equipment and clothing crafted from recycled or responsibly gathered materials.
 
 ## 5. Game Systems Overview
 
 - Exploration & World Interaction.
-- Resource Collection & Classification.
-- Crafting & Recycling.
+- Resource Collection (natural and recoverable materials).
+- Resource Classification & Delivery.
+- Crafting & Transformation.
 - Environmental Restoration.
 - Non-Lethal Combat / De-escalation.
+- Work, Objectives & Quotas.
 - Progression & Skills.
+- Secondary Activities (farming, animals).
 
 ## 6. Non-Goals
 
-- No realistic survival mechanics (hunger, thirst micromanagement).
+- No realistic survival micromanagement (hunger, thirst).
 - No permanent character death.
 - No competitive multiplayer.
+- No unrestricted sandbox economy or infinite resource exploitation.

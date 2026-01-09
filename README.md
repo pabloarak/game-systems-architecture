@@ -5,6 +5,8 @@ with a focus on:
 
 - Non-violent player interactions.
 - Sustainable progression mechanics.
+- Resource gathering and transformation systems.
+- Secondary activities (agriculture, animals, crafting).
 - System-first design.
 - Long-term extensibility.
 
